@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;600&display=swap');
+
+body{
+    background-color: #7f7f7f;
+    margin: 50px;
+}
+.container {
+    margin: auto;
+    width: 450px;
+    height: 690px;
+    background-color:#a6ec4e;
+}
+
+.form-container{
+    padding: 30px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 750;
+    margin: 0px;
+    margin-top: 25px;
+}
+
+h2 {
+    font-size: 43px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin: 0px;
+}
+
+.sign {
+    padding: none;
+    margin: 0px;
+}
+
+.input-container {
+    width: 365px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 3px solid #b8dd89;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+label {
+    font-size: 18px;
+    color: #7f7f7f;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-style: italic;
+}
+
+.container-private-policy{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: #5169ae;
+}
+
+.container-state{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 365px;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border: 3px solid #b8dd89;
+}
+
+input:focus {
+    outline: 0;
+}
+
+.container-date{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 365px;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border: 3px solid #b8dd89;
+}
+
+button {
+    background-color: #21292d;
+    color: #FFF;
+    height: 60px;
+    width: 110px;
+    font-size: 18px;
+    float: right;
+    cursor: pointer;
+}
